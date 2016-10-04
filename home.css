@@ -25,10 +25,7 @@ body {
 .venue {
     font-size: 1.5em;
     font-weight: 100;
-    padding: 8vh 0 2vh;
-}
-.rsvp {
-    padding: 2vh 0 8vh;
+    padding: 12vh 0
 }
 .heading {
     font-size: 0.8em;
